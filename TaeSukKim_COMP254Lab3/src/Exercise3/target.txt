@@ -1,0 +1,1 @@
+Sample contents of target.txt in 'root' directory.
