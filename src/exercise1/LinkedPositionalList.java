@@ -20,7 +20,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package lists;
+package exercise1;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

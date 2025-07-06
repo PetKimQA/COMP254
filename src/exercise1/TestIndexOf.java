@@ -1,4 +1,4 @@
-package lists;
+package exercise1;
 
 public class TestIndexOf {
     public static void main(String[] args) {

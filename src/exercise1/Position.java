@@ -1,4 +1,4 @@
-package lists;
+package exercise1;
 
 /** An abstraction representing a location that holds an element. */
 public interface Position<E> {
