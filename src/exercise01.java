@@ -1,5 +1,9 @@
 public class exercise01 {
 
+    /**
+     * O(h) is worst-case time complexity, where h is the height of the tree
+     * (because we might go all the way down or up the tree)
+     * */
     // Binary tree node class
     static class Node {
         int value;
@@ -60,5 +64,6 @@ public class exercise01 {
         System.out.println("Inorder successor of 4: " + inorderNext(n4).value);
         System.out.println("Inorder successor of 6: " + inorderNext(n6).value);
         System.out.println("Inorder successor of 7: " + inorderNext(n7));
+
     }
 }

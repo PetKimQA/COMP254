@@ -12,7 +12,6 @@ public class exercise02 {
 
     // Recursive postorder function to compute height and print node info
     // postorder traversal: left-right-current
-
     public static int computeAndPrintHeight(Node n) {
         // return -1 so that leaf node's height becomes 0
         if (n == null) {
